@@ -1,8 +1,6 @@
 name: Send Job Posts to CCST Discord Channel
 on:
   push:
-    branches:
-      - main
   schedule:
     - cron: "* 12 * * 6"
 
