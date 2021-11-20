@@ -1,0 +1,8 @@
+Pipfile
+Pipfile.*
+.idea/*
+.env
+
+## Python
+__pycache__/
+*.pyc
