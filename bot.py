@@ -8,6 +8,8 @@ posting_path = os.getcwd() + '/'
 
 channelID = 557234203972861954
 
+print("Check ENV variable: %s", os.environ.get('ENV'))
+
 if os.environ.get('ENV') == "dev":
     channelID = 555797201465638912  # testing-channel in CCST server
 
