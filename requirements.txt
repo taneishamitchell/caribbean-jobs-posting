@@ -1,5 +1,5 @@
 beautifulsoup4==4.7.1
-requests==2.20.0
+requests==2.31.0
 asyncio
 discord.py==1.7.3
 APScheduler==3.0.0
